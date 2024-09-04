@@ -1,5 +1,5 @@
 ﻿using Animal_;
-using Carnivor
+using Carnivore_;
 using Herbivore_;
 using Meat_;
 using Omnivore_;
